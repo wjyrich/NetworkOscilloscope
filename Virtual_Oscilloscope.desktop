@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=Virtual_Oscilloscope
+Name=Virtual_Oscilloscope
+Name[zh_CN]=Virtual_Oscilloscope
+Icon=Virtual_Oscilloscope
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=Virtual_Oscilloscope
+Version=1.0

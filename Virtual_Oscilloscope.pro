@@ -20,3 +20,11 @@ HEADERS  += vo.h \
     qcustomplot.h
 
 FORMS    += vo.ui
+
+target.path = $$PREFIX/bin
+desktop.files = Virtual_Oscilloscope.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons/hicolor/apps/
+icons.files = Virtual_Oscilloscope.png
+
+INSTALLS += target desktop icons
